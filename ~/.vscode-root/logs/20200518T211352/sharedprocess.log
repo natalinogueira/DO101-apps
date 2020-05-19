@@ -1,0 +1,3 @@
+[2020-05-18 21:13:56.995] [sharedprocess] [info] main {"machineId":"8c97304fa509bacf8fa9edbbc0d0d46182ba524d534bb0f246417e3ece7df476","windowId":2}
+[2020-05-18 21:13:57.128] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/nanogueira/app/devenv-versioning-openshift/DO101-apps/~/.vscode-root/User/snippets'
+[2020-05-18 21:14:37.054] [sharedprocess] [info] Starting to clean up unused language packs.
