@@ -273,3 +273,534 @@ fatal: no upstream configured for branch 'update-app-openshift'
 > git remote --verbose
 > git config --get commit.template
 > git push -u origin update-app-openshift
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:559:14)
+    at Socket.socketOnEnd (_http_client.js:433:23)
+    at Socket.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1168:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  code: 'ECONNRESET'
+}
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:559:14)
+    at Socket.socketOnEnd (_http_client.js:433:23)
+    at Socket.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1168:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  code: 'ECONNRESET'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/natalinogueira/DO101-apps.git/'
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :version/app.js
+> git ls-files --stage -- /home/nanogueira/app/devenv-versioning-openshift/DO101-apps/version/app.js
+> git cat-file -s ea83023970ad6abfed88a0d609a3f1041f2eca5a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
