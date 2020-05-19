@@ -804,3 +804,38 @@ fatal: Authentication failed for 'https://github.com/natalinogueira/DO101-apps.g
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/nanogueira/app/devenv-versioning-openshift/DO101-apps/version/app.js
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git cat-file -s 2785f2525abcc73c0c9bbec972c5832f5e340904
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git show :version/app.js
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse update-app-openshift
+> git rev-parse --symbolic-full-name update-app-openshift@{u}
+> git rev-list --left-right update-app-openshift...refs/remotes/origin/update-app-openshift
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
